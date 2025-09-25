@@ -3,8 +3,9 @@
 High school student passionate about AI, computer vision, and applied research. Creator of Siraj AI Agent and leader of team Aetherion.<br>🔭 Currently working on: (PHMEF)— Predictive Health Model Enhancement Framework<br>👯 Looking to collaborate on: applying new research to usable projects<br>💬 Reach me at insta @adnanmanna33<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials & Links:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adnanmanna33) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnanmanna3i@gmail.com) 
+[![sirajai.com](https://img.shields.io/badge/Siraj%20Ai-black)](https://www.sirajai.com/)
 
 # 💻 Tech Stack:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
